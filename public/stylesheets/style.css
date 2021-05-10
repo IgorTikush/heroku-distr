@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  
+}
+
+a {
+  color: #00B7FF;
+}
+
+.message {
+ display: inline-block;
+ float: left;
+ 
+ border-radius: 3%;
+ margin: 10px;
+ padding: 10px;
+ box-shadow: 0 0 10px rgba(0,0,0,0.5);
+ 
+}
